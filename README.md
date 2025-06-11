@@ -28,28 +28,6 @@ If the brown ratio is below 5%, the fruit is considered fresh; otherwise, it is 
 A freshness score is derived as:
 score = 100 - int(brown_ratio * 1000) (score is capped at a minimum of 0)
 
-Directory Structure
-bash
-Copy
-Edit
-Fruit-Freshness-Detector/
-│
-├── app.py 
-|
-├── images/
-|   |
-│   ├── apple fruit/
-|   |   |
-│   │   ├── image1.jpg
-|   |   |
-│   │   └── ...
-│   └── banana fruit/
-|       |
-│       ├── image1.jpg
-|       |
-│       └── ...
-|
-└── README.md              
 Installation
 Prerequisites
 Python 3.7 or higher
