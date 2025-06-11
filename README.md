@@ -34,14 +34,21 @@ Copy
 Edit
 Fruit-Freshness-Detector/
 │
-├── app.py               
-├── images/               
+├── app.py 
+|
+├── images/
+|   |
 │   ├── apple fruit/
+|   |   |
 │   │   ├── image1.jpg
+|   |   |
 │   │   └── ...
 │   └── banana fruit/
+|       |
 │       ├── image1.jpg
+|       |
 │       └── ...
+|
 └── README.md              
 Installation
 Prerequisites
