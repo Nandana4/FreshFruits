@@ -34,15 +34,15 @@ Copy
 Edit
 Fruit-Freshness-Detector/
 │
-├── app.py                 # Main application file
-├── images/                # Image dataset with subfolders for each fruit
+├── app.py               
+├── images/               
 │   ├── apple fruit/
 │   │   ├── image1.jpg
 │   │   └── ...
 │   └── banana fruit/
 │       ├── image1.jpg
 │       └── ...
-└── README.md              # Project documentation
+└── README.md              
 Installation
 Prerequisites
 Python 3.7 or higher
